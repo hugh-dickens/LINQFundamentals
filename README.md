@@ -1,0 +1,2 @@
+# LINQFundamentals
+LINQ fundamentals course
