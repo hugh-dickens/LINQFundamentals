@@ -1,0 +1,16 @@
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\bin\Debug\net5.0\Features.exe
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\bin\Debug\net5.0\Features.deps.json
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\bin\Debug\net5.0\Features.runtimeconfig.json
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\bin\Debug\net5.0\Features.runtimeconfig.dev.json
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\bin\Debug\net5.0\Features.dll
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\bin\Debug\net5.0\ref\Features.dll
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\bin\Debug\net5.0\Features.pdb
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\obj\Debug\net5.0\Features.csproj.AssemblyReference.cache
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\obj\Debug\net5.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\obj\Debug\net5.0\Features.AssemblyInfoInputs.cache
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\obj\Debug\net5.0\Features.AssemblyInfo.cs
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\obj\Debug\net5.0\Features.csproj.CoreCompileInputs.cache
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\obj\Debug\net5.0\Features.dll
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\obj\Debug\net5.0\ref\Features.dll
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\obj\Debug\net5.0\Features.pdb
+C:\Users\HWD1\Documents\Pluralsight Courses\LINQ Course\Features\Features\obj\Debug\net5.0\Features.genruntimeconfig.cache
